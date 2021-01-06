@@ -1,6 +1,6 @@
-### Hello to all who reach this Page 🙌🦀🙌
+<h1> Hello to all who reach this Page 🙌🦀🙌 </h1>
 
-- 🧔 About Me
+- 🧔 <h2> About Me </h2>
 <!--
 [![JonTDean's github stats](https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![JonTDean's Top Langs](https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
