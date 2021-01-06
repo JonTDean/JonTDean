@@ -1,9 +1,42 @@
 <h1> Hello to all who reach this Page 🙌🦀🙌 </h1>
 
-<h2>🧔 About Me </h2>
+<!-- About Section -->
+<h2>👑🧔 About Me 👑</h2>
+  <div>
+    <!-- Description-->
+    <p> I'm just a humble practioner of Rustlang</p>
 
+    <!-- Contact Information-->
+    <h3>📫 How to reach me</h3>
 
-<h2> Lifetime Statistics </h2>
+    <!-- What to say to message me.-->
+    <h3> 💬 Ask me about</h3>
+
+    <!-- Attack Helicopter protocol L-O-420691337-l -->
+    <h3>😄 Pronouns</h3>
+    <p>He/Him/Greatness/Highness</p>
+
+    <!-- The Actual About me -->
+    <h3>⚡ Fun fact</h3>
+    
+    <!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
+    <h3>Likes/Dislikes</h3>
+  </div>
+
+<!-- ============================ -->
+<!-- Collaborative Efforts -->
+<h2> 👯 Let's Collaborate </h2>
+  <div>
+    <p> Please don't hesitate to reach out if you have an idea and want to collaborate. Check out the rest of my About in order to get a sense of my Skillset. </p>  
+  </div>
+
+<!-- ============================ -->
+<!-- What I’m currently working on -->
+<h2>🔭 Current Projects </h2>
+
+<!-- ============================ -->
+<!-- Dev Stats -->
+<h2> 🖥️ Lifetime Statistics </h2>
 <div align="center" >
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,20 +57,16 @@
    </div>
 </div>
 
+<!-- ============================ -->
+<!-- ============================ -->
+<!-- ============================ -->
+
 <!--
-- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
 
-- 👯 I’m looking to collaborate on ...
+
 
 - 🤔 I’m looking for help with ...
 
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
 -->
