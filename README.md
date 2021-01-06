@@ -7,7 +7,7 @@
     <!-- Description-->
     <p> I'm just a humble practioner of Rustlang</p>
 
-  <div align="center">
+  <div>
 	<!-- ================== -->
 	<!-- Contact Information-->
     <h3> 📫 Where to find me </h3>
@@ -41,19 +41,19 @@
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Statistics </h2>
 <div align="center" >
-  <div>
+  <div width="200" height="150" align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
     </a>
   </div>
 
-  <div>
+  <div width="200" height="150" align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
     </a>
    </div>
    
-   <div>
+   <div width="200" height="150" align="right">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
     </a>
