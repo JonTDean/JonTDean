@@ -1,4 +1,4 @@
-<h1> Hello to all who reach this Page 🙌🦀🙌 </h1>
+<h1> The Fool of Rust's Profile 🙌🦀🙌 </h1>
 
 <!-- ============================ -->
 <!-- About Section -->
@@ -41,21 +41,21 @@
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Statistics </h2>
 <div align="center" >
-  <div width="200" height="150" align="left">
+  <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+      <img width="200" height="150" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
     </a>
   </div>
 
-  <div width="200" height="150" align="center">
+  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
+      <img width="200" height="150" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
     </a>
    </div>
    
-   <div width="200" height="150" align="right">
+   <div align="right">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
+      <img width="200" height="150" align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
     </a>
    </div>
 </div>
