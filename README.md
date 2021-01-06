@@ -7,7 +7,7 @@
 [![JonTDean's wakatime stats](https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<div style="margin: 0 auto;" >
+<div align="center" >
   <div>
     <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
   </div>
