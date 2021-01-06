@@ -40,7 +40,7 @@
 <!-- ============================ -->
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Statistics </h2>
-<div align="center" >
+<div>
   <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="200" height="150" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
