@@ -1,12 +1,9 @@
 <h1> Hello to all who reach this Page 🙌🦀🙌 </h1>
 
-- 🧔 <h2> About Me </h2>
-<!--
-[![JonTDean's github stats](https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![JonTDean's Top Langs](https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![JonTDean's wakatime stats](https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean)](https://github.com/anuraghazra/github-readme-stats)
--->
+<h2>🧔 About Me </h2>
 
+
+<h2> Lifetime Statistics </h2>
 <div align="center" >
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,6 +24,7 @@
    </div>
 </div>
 
+<!--
 - 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
@@ -42,4 +40,4 @@
 - 😄 Pronouns: ...
 
 - ⚡ Fun fact: ...
-
+-->
