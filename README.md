@@ -9,15 +9,21 @@
 
 <div align="center" >
   <div>
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+    </a>
   </div>
 
   <div>
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
+    </a>
    </div>
    
    <div>
-    <img align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
+    </a>
    </div>
 </div>
 
