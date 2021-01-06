@@ -41,23 +41,15 @@
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Statistics </h2>
 <div>
-  <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="200" height="150" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+      <img width="200" height="150" align="left" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
     </a>
-  </div>
-
-  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="200" height="150" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
+      <img width="200" height="150" align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
     </a>
-   </div>
-   
-   <div align="right">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="200" height="150" align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
+      <img width="200" height="150" align="right" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
     </a>
-   </div>
 </div>
 
 <!-- ============================ -->
