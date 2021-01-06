@@ -1,24 +1,27 @@
 <h1> Hello to all who reach this Page 🙌🦀🙌 </h1>
 
+<!-- ============================ -->
 <!-- About Section -->
 <h2>👑🧔 About Me 👑</h2>
-  <div>
+	<!-- ========== -->
     <!-- Description-->
     <p> I'm just a humble practioner of Rustlang</p>
 
-    <!-- Contact Information-->
-    <h3>📫 How to reach me</h3>
-
+  <div align="center">
+	<!-- ================== -->
+	<!-- Contact Information-->
+    <h3> 📫 Where to find me </h3>
+	<!-- ================== -->
     <!-- What to say to message me.-->
-    <h3> 💬 Ask me about</h3>
-
+	<h3> 💬 Ask me about </h3>
+	<!-- ================== -->
     <!-- Attack Helicopter protocol L-O-420691337-l -->
-    <h3>😄 Pronouns</h3>
-    <p>He/Him/Greatness/Highness</p>
-
+    <h3> 😄 Pronouns </h3>
+	    <p>He/Him/Greatness/Highness</p>
+	<!-- ================== -->
     <!-- The Actual About me -->
-    <h3>⚡ Fun fact</h3>
-    
+    <h3> ⚡ Fun fact </h3>
+	<!-- ================== -->
     <!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
     <h3>Likes/Dislikes</h3>
   </div>
