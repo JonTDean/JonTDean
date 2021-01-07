@@ -1,5 +1,5 @@
 <h1> The Fool of Rust's Profile 🙌🦀🙌 </h1>
-<img src="./animated_banner_short.gif"/>
+<img src="./Banner.gif"/>
 <!-- ============================ -->
 <!-- About Section -->
 <h2>☕🃏 About Me 🦀☕</h2>
