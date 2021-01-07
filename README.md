@@ -49,11 +49,17 @@
 		  <img align="center" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
 		</a>
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark">
-		  <img align="right" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=maroongold" />
+<!-- 		  <img align="right" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=maroongold" /> -->
 		</a>
 	</div>
-	<div align="center">
-		<a href="https://wakatime.com"><img width="600" height="400" src="https://wakatime.com/share/@JonTDean/d1a475eb-f52e-4b71-82c0-466e66ac0098.png" /></a>
+	<!-- WakaTime Stats -->
+	<div>
+		<div align="center">
+			<a href="https://wakatime.com"><img width="600" height="400" src="https://wakatime.com/share/@JonTDean/d1a475eb-f52e-4b71-82c0-466e66ac0098.png" /></a>
+		</div>
+		<div align="center">
+			<a href="https://wakatime.com"><img width="600" height="400" src="https://wakatime.com/share/@JonTDean/14f1dc61-556d-4df0-9488-e6fa519fde70.png" /></a>
+		</div>
 	</div>
 <!-- ============================ -->
 <!-- ============================ -->
