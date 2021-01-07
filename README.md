@@ -40,17 +40,18 @@
 <!-- ============================ -->
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Statistics </h2>
-<div display="flex">
-    <a href="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark">
-      <img align="left" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-    </a>
-    <a href="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark">
-      <img align="center" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
-    </a>
-    <a href="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark">
-      <img align="right" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
-    </a>
-</div>
+	<h3>Github Stats</h3>
+	<div display="flex">
+		<a href="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark">
+		  <img align="left" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+		</a>
+		<a href="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark">
+		  <img align="center" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
+		</a>
+		<a href="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark">
+		  <img align="right" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
+		</a>
+	</div>
 
 <!-- ============================ -->
 <!-- ============================ -->
