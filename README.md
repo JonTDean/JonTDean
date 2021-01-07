@@ -14,11 +14,11 @@
 	<!-- ================== -->
     <!-- What to say to message me.-->
 	<h3> 💬 Ask me about </h3>
-		<li>
-			<ul> Music (80s, Synth, Vaporwave, Indie, Pop, Rock, literally anything)</ul>
-			<ul> Subpar Life Advice </ul>
-			<ul> Rust, and Lesser Programming languages </ul>
-		</li>
+		<ul>
+			<li> Music (80s, Synth, Vaporwave, Indie, Pop, Rock, literally anything)</li>
+			<li> Subpar Life Advice </li>
+			<li> Rust, and Lesser Programming languages </li>
+		</ul>
 	<!-- ================== -->
     <!-- Attack Helicopter protocol L-O-420691337-l -->
     <h3> 😄 Pronouns </h3>
@@ -26,24 +26,24 @@
 	<!-- ================== -->
     <!-- The Actual About me -->
     <h3> ⚡ Fun fact </h3>
-		<li>
-			<ol> I'm really good at 80s trivia. </ol>
-			<ol> I love to cook. Region has no meaning when it comes to the pallette. </ol>
-			<ol> I'm good at directions. </ol>
-		<li>
+		<ol>
+			<li> I'm really good at 80s trivia. </li>
+			<li> I love to cook. Region has no meaning when it comes to the pallette. </li>
+			<li> I'm good at directions. </li>
+		<ol>
 	<!-- ================== -->
     <!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
     <h3>Likes/Dislikes</h3>
-		<li> 
+		<ul> 
 			<p> Likes </p>
-				<ul> Monster Hunter (ps2 days) 🐉</ul>
-				<ul> Rust 🦀</ul>
-				<ul> Sleep 💤</ul>
-				<ul> LoFi 🧘</ul>
+				<li> Monster Hunter (ps2 days) 🐉</li>
+				<li> Rust 🦀</li>
+				<li> Sleep 💤</li>
+				<li> LoFi 🧘</li>
 			<p> Dislikes </p>
-				<ul> Cayenne Pepper </ul>
-				<ul> Not finishing a project </ul>
-		</li>
+				<li> Cayenne Pepper </li>
+				<li> Not finishing a project </li>
+		</ul>
   </div>
 
 <!-- ============================ -->
