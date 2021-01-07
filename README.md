@@ -10,10 +10,10 @@
   <div>
 	<!-- ================== -->
 	<!-- Contact Information-->
-    <h3> 📫 Where to find me </h3>
-	<br>
+    	<h3> 📫 Where to find me </h3>
+		<br>
 	<!-- ================== -->
-    <!-- What to say to message me.-->
+    	<!-- What to say to message me.-->
 	<h3> 💬 Ask me about </h3>
 		<ul>
 			<li> Music (80s, Synth, Vaporwave, Indie, Pop, Rock, literally anything)</li>
@@ -22,12 +22,26 @@
 		</ul>
 		<br>
 	<!-- ================== -->
-    <!-- Attack Helicopter protocol L-O-420691337-l -->
-    <h3> 😄 Pronouns </h3>
-	    <p>He/Him/Rustness</p>
+	<!-- Attack Helicopter protocol L-O-420691337-l -->
+	<h3> 😄 Pronouns </h3>
+    		<p>He/Him/Rustness</p>
 		<br>
 	<!-- ================== -->
-    <!-- The Actual About me -->
+    	<!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
+	<h3>👌Likes/Dislikes🙅</h3>
+		<ul> 
+			<h4> Likes </h4>
+				<li> Monster Hunter (ps2 days) 🐉</li>
+				<li> Rust 🦀</li>
+				<li> Sleep 💤</li>
+				<li> LoFi 🧘</li>
+			<h4> Dislikes </h4>
+				<li> Cayenne Pepper </li>
+				<li> Not finishing a project </li>
+		</ul>
+		<br>
+	<!-- ================== -->
+	<!-- The Actual About me -->
 	<h3> ⚡ Fun fact </h3>
 		<ol>
 			<li> I'm really good at 80s trivia. </li>
@@ -35,9 +49,6 @@
 			<li> I'm good at directions. </li>
 		<ol>
 		<br>
-	<!-- ================== -->
-    <!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
-	<h3>👌Likes/Dislikes🙅</h3>
   </div>
 
 <!-- ============================ -->
