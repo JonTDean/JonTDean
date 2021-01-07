@@ -47,12 +47,7 @@
 						</div>
 					</div>
 			<br>
-			<!-- Image Splitter -->
-			<div align="center">
-				<img align="left" src="./coffee.svg" />
-				<img align="center" src="./coffee.svg" />
-				<img align="right" src="./coffee.svg" />
-			</div>
+			<hr>
 			<!-- ================== -->
 			<!-- What to say to message me.-->
 			<h3> 💬 Ask me about </h3>
