@@ -175,37 +175,40 @@
 					<li>
 						<h4> Web Development </h4>
 							<ul>
-								<li> Ruby On Rails </li>
-								<li> React </li>
-								<li> Express </li>
-								<li> Diesel </li>
-								<li> Actix </li>
-								<li> Yew </li>
+								<li> Ruby On Rails <img src="https://img.shields.io/badge/Ruby%20On%20Rails-Everything-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=ruby-on-rails"></li>
+								<li> React <img src="https://img.shields.io/badge/Phaser-FrontEnd%20Framework-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=react"></li>
+								<li> Express <img src="https://img.shields.io/badge/Express-Backend%20Server-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=Express"></li>
+								<li> Diesel <img src="https://img.shields.io/badge/Diesel-ORM-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=rust"></li>
+								<li> Actix <img src="https://img.shields.io/badge/Actix-WebFramework-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=rust"></li>
+								<li> Yew <img src="https://img.shields.io/badge/Yew-FrontEnd%20Framework-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=rust"></li>
 							</ul>
 					</li>
 					<li>
 						<h4> Game Development </h4>
 							<ul>
-								<li> Phaser </li>
-								<li> Unity </li>
-								<li> Amethyst </li>
-								<li> XNA </li>
-								<li> M.U.G.E.N. </li>
+								<li> Phaser <img src="https://img.shields.io/badge/Phaser-Engine-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=javascript"></li>
+								<li> Unity <img src="https://img.shields.io/badge/Unity-Engine-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=unity"></li>
+								<li> Amethyst <img src="https://img.shields.io/badge/Amethyst-Engine-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=rust"></li>
+								<li> XNA <img src="https://img.shields.io/badge/XNA-Engine-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=c-sharp"></li>
+								<li> M.U.G.E.N. <img src="https://img.shields.io/badge/M.U.G.E.N.-Engine-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=c"></li>
 							</ul>
 					</li>
 					<li>
 						<h4> Database Development </h4>
 							<ul>
-								<li> MySQL</li>
-								<li> MongoDB</li>
-								<li> Postgresql</li>
+								<li> MySQL <img src="https://img.shields.io/badge/MySQL-QueryLang%20SQL-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=mysql"></li>
+								<li> MongoDB <img src="https://img.shields.io/badge/MongoDB-QueryLang%20noSQL-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=mongodb"></li>
+								<li> Postgresql <img src="https://img.shields.io/badge/PostgreSQL-QueryLang%20-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=postgresql"></li>
 							</ul>
 					</li>
 					<li> 
 						<h4> Miscellaneous Tech </h4>
 							<ul>
 								<li> JSON <img src="https://img.shields.io/badge/JSON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=json"> </li>
-								<li> RON <img src="https://img.shields.io/badge/RON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=ron"></li>
+								<li> RON <img src="https://img.shields.io/badge/RON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=json"></li>
+								<li> Markdown <img src="https://img.shields.io/badge/Markdown-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=markdown"></li>
+								<li> HTML5 <img src="https://img.shields.io/badge/html-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=html5"></li>
+								<li> RON <img src="https://img.shields.io/badge/CSS-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=css3"></li>
 								<li> NodeJS <img src="https://img.shields.io/badge/nodeJS-Framework-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=node.js"></li>
 								<li> CMD <img src="https://img.shields.io/badge/CMD-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=powershell"></li>
 								<li> PowerShell <img src="https://img.shields.io/badge/Powershell-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=powershell"></li>
