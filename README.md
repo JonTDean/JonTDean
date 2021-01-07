@@ -19,12 +19,6 @@
 					<p> Currently, I'm doing Voyage 27 courtesy of https://chingu.io/ </p>
 					<p> I'm also freelancing, contact me via e-mail or twitter in order to set up an appointment </p>
 			</div>
-			<!-- Image Splitter -->
-			<div align="center">
-				<img align="left" src="./coffee.svg" />
-				<img align="center" src="./coffee.svg" />
-				<img align="right" src="./coffee.svg" />
-			</div>
 		</div>
 		<!-- Middle Div -->
 		<div>
@@ -53,6 +47,12 @@
 						</div>
 					</div>
 			<br>
+			<!-- Image Splitter -->
+			<div align="center">
+				<img align="left" src="./coffee.svg" />
+				<img align="center" src="./coffee.svg" />
+				<img align="right" src="./coffee.svg" />
+			</div>
 			<!-- ================== -->
 			<!-- What to say to message me.-->
 			<h3> 💬 Ask me about </h3>
@@ -89,6 +89,12 @@
 						<li> Not finishing a project </li>
 				</ul>
 			</details>
+			<!-- Image Splitter -->
+			<div align="center">
+				<img align="left" src="./coffee.svg" />
+				<img align="center" src="./coffee.svg" />
+				<img align="right" src="./coffee.svg" />
+			</div>
 			<!-- ================== -->
 			<!-- The Actual About me -->
 			<h3> ⚡ Fun facts </h3>
