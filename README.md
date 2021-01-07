@@ -2,7 +2,7 @@
 <img src="./animated_banner_short.gif"/>
 <!-- ============================ -->
 <!-- About Section -->
-<h2>👑🧔 About Me 🦀👑</h2>
+<h2>👑🃏 About Me 🦀👑</h2>
 	<!--Container Div -->
 	<div>
 		<!-- Top Div -->
@@ -10,10 +10,11 @@
 			<!-- ========== -->
 			<!-- Description-->
 			<p> I'm just a humble practioner of Rustlang</p>
+				<img src="./coffee.svg" />
 			<!-- ================== -->
 			<!-- Attack Helicopter protocol L-O-420691337-l -->
 			<h3> 😄 Pronouns </h3>
-				<p>He/Him/Rustness</p>
+				<p>He/Him</p>
 		</div>
 		<!-- Middle Div -->
 		<div>
