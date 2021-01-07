@@ -2,7 +2,7 @@
 
 <!-- ============================ -->
 <!-- About Section -->
-<h2>👑🧔 About Me 👑</h2>
+<h2>👑🧔 About Me 🦀👑</h2>
 	<!-- ========== -->
     <!-- Description-->
     <p> I'm just a humble practioner of Rustlang</p>
@@ -17,7 +17,7 @@
 	<!-- ================== -->
     <!-- Attack Helicopter protocol L-O-420691337-l -->
     <h3> 😄 Pronouns </h3>
-	    <p>He/Him/Greatness/Highness</p>
+	    <p>He/Him/Rustness</p>
 	<!-- ================== -->
     <!-- The Actual About me -->
     <h3> ⚡ Fun fact </h3>
