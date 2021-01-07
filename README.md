@@ -152,14 +152,31 @@
 												<li> Ruby <img src="https://img.shields.io/badge/Ruby-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=Ruby"></li>
 											</ul>
 									</li>
+									<li> 
+										<h4> Miscellaneous Languages </h4>
+										<ul>
+											<li> HTML5 <img src="https://img.shields.io/badge/html-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=html5"></li>
+											<li> CSS <img src="https://img.shields.io/badge/CSS-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=css3"></li>
+										</ul>
+									</li>
 								</ul>
 						</li>
 						<li>
 							<h4> Querying Languages </h4>
 								<ul>
 									<li> R <img src="https://img.shields.io/badge/R-QueryLang-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=r"></li>
-									<li> SQL <img src="https://img.shields.io/badge/SQL-QueryLang-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=sql"></li>
-									<li> NoSQL <img src="https://img.shields.io/badge/NoSQL-QueryLang-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=nosql"></li>
+									<li> MySQL <img src="https://img.shields.io/badge/MySQL-QueryLang%20SQL-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=mysql"></li>
+									<li> MongoDB <img src="https://img.shields.io/badge/MongoDB-QueryLang%20noSQL-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=mongodb"></li>
+									<li> Postgresql <img src="https://img.shields.io/badge/PostgreSQL-QueryLang%20-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=postgresql"></li>
+								</ul>
+						</li>
+						<li>
+							<h4> Shells </h4>
+								<ul>
+									<li> CMD <img src="https://img.shields.io/badge/CMD-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=powershell"></li>
+									<li> PowerShell <img src="https://img.shields.io/badge/Powershell-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=powershell"></li>
+									<li> ZSH <img src="https://img.shields.io/badge/ZSH-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=gnu-bash"></li>
+									<li> Bash <img src="https://img.shields.io/badge/ZSH-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=gnu-bash"></li>
 								</ul>
 						</li>
 					</ol>			
@@ -195,26 +212,17 @@
 							</ul>
 					</li>
 					<li>
-						<h4> Database Development </h4>
+						<h4> File Formats </h4>
 							<ul>
-								<li> MySQL <img src="https://img.shields.io/badge/MySQL-QueryLang%20SQL-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=mysql"></li>
-								<li> MongoDB <img src="https://img.shields.io/badge/MongoDB-QueryLang%20noSQL-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=mongodb"></li>
-								<li> Postgresql <img src="https://img.shields.io/badge/PostgreSQL-QueryLang%20-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=postgresql"></li>
+								<li> JSON <img src="https://img.shields.io/badge/JSON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=json"> </li>
+								<li> RON <img src="https://img.shields.io/badge/RON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=json"></li>
+								<li> Markdown <img src="https://img.shields.io/badge/Markdown-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=markdown"></li>
 							</ul>
 					</li>
 					<li> 
 						<h4> Miscellaneous Tech </h4>
 							<ul>
-								<li> JSON <img src="https://img.shields.io/badge/JSON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=json"> </li>
-								<li> RON <img src="https://img.shields.io/badge/RON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=json"></li>
-								<li> Markdown <img src="https://img.shields.io/badge/Markdown-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=markdown"></li>
-								<li> HTML5 <img src="https://img.shields.io/badge/html-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=html5"></li>
-								<li> RON <img src="https://img.shields.io/badge/CSS-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=css3"></li>
 								<li> NodeJS <img src="https://img.shields.io/badge/nodeJS-Framework-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=node.js"></li>
-								<li> CMD <img src="https://img.shields.io/badge/CMD-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=powershell"></li>
-								<li> PowerShell <img src="https://img.shields.io/badge/Powershell-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=powershell"></li>
-								<li> ZSH <img src="https://img.shields.io/badge/ZSH-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=gnu-bash"></li>
-								<li> Bash <img src="https://img.shields.io/badge/ZSH-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=gnu-bash"></li>
 							</ul>
 					</li>
 				</ol>
