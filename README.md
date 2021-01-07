@@ -6,16 +6,16 @@
 	<!--Container Div -->
 	<div>
 		<!-- Top Div -->
-		<div>
+		<div float="left">
 			<!-- ========== -->
 			<!-- Description-->
-			<span align="left">
+			<span>
 				<h3> Bio </h3>
 				<p> I'm just a humble practioner of Rustlang</p>
 			</span>
 			<!-- ================== -->
 			<!-- Attack Helicopter protocol L-O-420691337-l -->
-			<span align="right">
+			<span>
 				<h3> 😄 Pronouns </h3>
 				<p>He/Him</p>
 			</span>
