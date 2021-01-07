@@ -11,6 +11,7 @@
 	<!-- ================== -->
 	<!-- Contact Information-->
     <h3> 📫 Where to find me </h3>
+	<br>
 	<!-- ================== -->
     <!-- What to say to message me.-->
 	<h3> 💬 Ask me about </h3>
@@ -19,10 +20,12 @@
 			<li> Subpar Life Advice </li>
 			<li> Rust, and Lesser Programming languages </li>
 		</ul>
+		<br>
 	<!-- ================== -->
     <!-- Attack Helicopter protocol L-O-420691337-l -->
     <h3> 😄 Pronouns </h3>
 	    <p>He/Him/Rustness</p>
+		<br>
 	<!-- ================== -->
     <!-- The Actual About me -->
     <h3> ⚡ Fun fact </h3>
@@ -31,6 +34,7 @@
 			<li> I love to cook. Region has no meaning when it comes to the pallette. </li>
 			<li> I'm good at directions. </li>
 		<ol>
+		<br>
 	<!-- ================== -->
     <!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
     <h3>Likes/Dislikes</h3>
