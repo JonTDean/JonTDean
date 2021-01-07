@@ -53,7 +53,7 @@
 		</a>
 	</div>
 	<div align="center">
-		<a href="https://wakatime.com"><img width="600" height="400" src="https://wakatime.com/share/@JonTDean/673df875-79bb-4eb2-8da3-e28dda5cc909.png" /></a>
+		<a href="https://wakatime.com"><img width="600" height="400" src="https://wakatime.com/share/@JonTDean/d1a475eb-f52e-4b71-82c0-466e66ac0098.png" /></a>
 	</div>
 <!-- ============================ -->
 <!-- ============================ -->
