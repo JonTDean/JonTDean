@@ -79,17 +79,19 @@
 		</div>
 	</div>
 
+<hr>
 <!-- ============================ -->
 <!-- Collaborative Efforts -->
 <h2> 👯 Let's Collaborate </h2>
   <div>
-    <p> Please don't hesitate to reach out if you have an idea and want to collaborate. Check out the rest of my About in order to get a sense of my Skillset. </p>  
+    <p> Please don't hesitate to reach out if you have an idea and want to collaborate. </p>  
   </div>
 
 <!-- ============================ -->
 <!-- What I’m currently working on -->
 <h2>🔭 Current Projects </h2>
 
+<hr>
 <!-- ============================ -->
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Development Statistics </h2>
