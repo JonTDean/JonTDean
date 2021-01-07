@@ -6,7 +6,7 @@
 	<!--Container Div -->
 	<div>
 		<!-- Top Div -->
-		<div align="center">
+		<div>
 			<!-- ========== -->
 			<!-- Description-->
 			<span align="left">
