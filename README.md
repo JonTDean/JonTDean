@@ -29,9 +29,9 @@
 						<!-- Portals -->
 						<div align="center">
 							<!-- Main Website -->
-							<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
+							<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&logo=jameson&labelColor=260000&color=e0aa3e" />
 							<!-- Discord -->
-							<img src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
+							<img src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&logo=discord&labelColor=260000&color=e0aa3e" />
 						</div>
 						<br>
 						<br>
@@ -39,12 +39,12 @@
 						<div align="center">
 							<!-- Twitter Followers -->
 							<a href="https://twitter.com/JonTDean">
-								<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
+								<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&logo=twitter&labelColor=260000&color=e0aa3e" />
 							</a>
 							<br>
 							<!-- Github Followers -->
 							<a href="https://github.com/JonTDean">
-								<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
+								<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&logo=github&labelColor=260000&color=e0aa3e" />
 							</a>
 							<br>
 							<!-- LinkedIn -->
