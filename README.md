@@ -52,6 +52,8 @@
 		  <img align="right" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
 		</a>
 	</div>
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/673df875-79bb-4eb2-8da3-e28dda5cc909.png" /></a>
 
 <!-- ============================ -->
 <!-- ============================ -->
