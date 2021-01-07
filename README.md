@@ -1,24 +1,19 @@
 <h1> The Fool of Rust's Profile 🙌🦀🙌 </h1>
-
+<img src="./animated_banner_short.gif"/>
 <!-- ============================ -->
 <!-- About Section -->
 <h2>👑🧔 About Me 🦀👑</h2>
 	<!--Container Div -->
 	<div>
 		<!-- Top Div -->
-		<div float="left">
+		<div>
 			<!-- ========== -->
 			<!-- Description-->
-			<span>
-				<h3> Bio </h3>
-				<p> I'm just a humble practioner of Rustlang</p>
-			</span>
+			<p> I'm just a humble practioner of Rustlang</p>
 			<!-- ================== -->
 			<!-- Attack Helicopter protocol L-O-420691337-l -->
-			<span>
-				<h3> 😄 Pronouns </h3>
-				<p>He/Him</p>
-			</span>
+			<h3> 😄 Pronouns </h3>
+				<p>He/Him/Rustness</p>
 		</div>
 		<!-- Middle Div -->
 		<div>
@@ -80,7 +75,7 @@
 	<h3>Github Stats</h3>
 	<div display="flex" align="center">
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark">
-		  <img align="center" width="550" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=maroongold" />
+		  <img align="center" width="550" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold" />
 		</a>
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark">
 		  <img align="center" width="450" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
@@ -96,7 +91,7 @@
 		</div>
 		<details>
 			<summary>
-				Advanced - Language Use
+				Advanced - Language Use :: Past 7 Days
 			</summary>
 			<div align="center">
 				<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/06af77bd-e25a-4e74-97c8-f8e6e8690e22.png" /></a>
@@ -104,7 +99,7 @@
 		</details>
 		<details>
 			<summary>
-				Advanced - Total Programming Time
+				Advanced - Total Programming Time :: Past 7 Days
 			</summary>
 			<div align="center">
 				<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/14f1dc61-556d-4df0-9488-e6fa519fde70.png" /></a>
