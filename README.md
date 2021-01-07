@@ -53,11 +53,9 @@
 	<!-- ============================ -->
 	<h3> WakaTime Meta Stats </h3>
 	<div display="flex" align="center">
-		<p>Total Programming time</p>
 		<div align="center">
-			<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/d1a475eb-f52e-4b71-82c0-466e66ac0098.png" /></a>
+			<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/06af77bd-e25a-4e74-97c8-f8e6e8690e22.png" /></a>
 		</div>
-		<p>Language Use Time Per Day</p>
 		<div align="center">
 			<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/14f1dc61-556d-4df0-9488-e6fa519fde70.png" /></a>
 		</div>
