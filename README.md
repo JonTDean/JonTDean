@@ -139,17 +139,17 @@
 									<li>
 										<h4> Main Languages <h4>
 											<ul>
-												<li> Rust </li>
-												<li> JavaScript 2015+ </li>
-												<li> C# </li>
+												<li> Rust <img src="https://img.shields.io/badge/Rust-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=Rust"></li>
+												<li> JavaScript 2015+ <img src="https://img.shields.io/badge/JavaScript-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=javascript"></li>
+												<li> C# <img src="https://img.shields.io/badge/C%20Sharp-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=c-sharp"></li>
 											</ul>
 									</li>
 									<li>
 										<h4> Sub Languages </h4>
 											<ul>
-												<li> TypeScript </li>
-												<li> Python 2.x/3.x </li>
-												<li> Ruby </li>
+												<li> TypeScript <img src="https://img.shields.io/badge/TypeScript-Sub%20Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=typescript"></li>
+												<li> Python 2.x/3.x <img src="https://img.shields.io/badge/Python-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=python"></li>
+												<li> Ruby <img src="https://img.shields.io/badge/Ruby-Language-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=Ruby"></li>
 											</ul>
 									</li>
 								</ul>
@@ -157,8 +157,9 @@
 						<li>
 							<h4> Querying Languages </h4>
 								<ul>
-									<li> R </li>
-									<li> SQL </li>
+									<li> R <img src="https://img.shields.io/badge/R-QueryLang-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=r"></li>
+									<li> SQL <img src="https://img.shields.io/badge/SQL-QueryLang-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=sql"></li>
+									<li> NoSQL <img src="https://img.shields.io/badge/NoSQL-QueryLang-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=nosql"></li>
 								</ul>
 						</li>
 					</ol>			
