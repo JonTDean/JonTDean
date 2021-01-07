@@ -41,7 +41,7 @@
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Statistics </h2>
 	<h3>Github Stats</h3>
-	<div display="flex">
+	<div display="flex" align="center">
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark">
 		  <img align="center" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=maroongold" />
 		</a>
@@ -53,7 +53,7 @@
 		</a>
 	</div>
 	<!-- WakaTime Stats -->
-	<div display="flex">
+	<div display="flex" align="center">
 		<div align="center">
 			<a href="https://wakatime.com"><img width="400" height="200" src="https://wakatime.com/share/@JonTDean/d1a475eb-f52e-4b71-82c0-466e66ac0098.png" /></a>
 		</div>
