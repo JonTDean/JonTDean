@@ -70,6 +70,7 @@
 					<li> I love to cook. Region has no meaning when it comes to the pallette. </li>
 					<li> I'm good at directions. </li>
 				<ol>
+			<br>
 			<!-- Image Splitter -->
 			<div align="center">
 				<img align="left" src="./coffee.svg" />
