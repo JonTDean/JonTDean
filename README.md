@@ -29,21 +29,32 @@
 						<!-- Portals -->
 						<div align="center">
 							<!-- Main Website -->
-							<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
+							<img align="right" src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
 							<!-- Discord -->
-							<img src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
+							<img align="left" src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
 						</div>
 						<br>
 						<!-- Social Media -->
-						<div align="center">
+						<div>
 							<!-- Twitter Followers -->
-							<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
+							<a href="https://twitter.com/JonTDean">
+								<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
+							</a>
 							<br>
 							<!-- Github Followers -->
-							<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
+							<a href="https://github.com/JonTDean">
+								<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
+							</a>
 							<br>
 							<!-- LinkedIn -->
-							<img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
+							<a href="https://www.linkedin.com/in/jonathan-dean-ab67aa150/">
+								<img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
+							</a>
+							<br>
+							<!-- E-Mail -->
+							<a href="mailto:jonathantomdean@Gmail.com">
+								<img src="https://img.shields.io/badge/E--Mail-Send%20Me%20a%20Message?style=flat-square&logo=gmail&labelColor=260000&color=e0aa3e"/>
+							</a>
 						</div>
 					</div>
 			<br>
