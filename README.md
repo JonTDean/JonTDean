@@ -37,18 +37,17 @@
 		<br>
 	<!-- ================== -->
     <!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
-
-	<h3>👌Likes/Dislikes🙅</h3>
-		<ul> 
-		<h4> Likes </h4>
-			<li> Monster Hunter (ps2 days) 🐉</li>
-			<li> Rust 🦀</li>
-			<li> Sleep 💤</li>
-			<li> LoFi 🧘</li>
-		<h4> Dislikes </h4>
-			<li> Cayenne Pepper </li>
-			<li> Not finishing a project </li>
-		</ul>
+<h3>👌Likes/Dislikes🙅</h3>
+	<ul> 
+	<h4> Likes </h4>
+		<li> Monster Hunter (ps2 days) 🐉</li>
+		<li> Rust 🦀</li>
+		<li> Sleep 💤</li>
+		<li> LoFi 🧘</li>
+	<h4> Dislikes </h4>
+		<li> Cayenne Pepper </li>
+		<li> Not finishing a project </li>
+	</ul>
   </div>
 
 <!-- ============================ -->
