@@ -35,9 +35,9 @@
 						<!-- Portals -->
 						<div align="center">
 							<!-- Main Website -->
-							<img align="right" src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
+							<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
 							<!-- Discord -->
-							<img align="left" src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
+							<img src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
 						</div>
 						<br>
 						<!-- Social Media -->
@@ -150,6 +150,12 @@
 						</li>
 					</ol>			
 			</details>
+				<!-- Image Splitter -->
+				<div align="center">
+					<img align="left" src="./hard-drive.svg" />
+					<img align="center" src="./hard-drive.svg" />
+					<img align="right" src="./hard-drive.svg" />
+				</div>
 			<h3> Technology Set </h3>
 			<details>
 				<ol>
@@ -184,6 +190,11 @@
 					</li>
 				</ol>
 			</details> 
+				<div align="center">
+					<img align="left" src="./hard-drive.svg" />
+					<img align="center" src="./hard-drive.svg" />
+					<img align="right" src="./hard-drive.svg" />
+				</div>
 		<!-- My PC Specs -->
 		<h3> Hardware Specifications </h3>
 			<table class="tg">
@@ -221,10 +232,10 @@
 	<h3>Github Stats</h3>
 	<div display="flex" align="center">
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark">
-		  <img align="center" width="550" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold" />
+		  <img align="center" width="500" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold" />
 		</a>
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark">
-		  <img align="center" width="450" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
+		  <img align="center" width="400" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
 		</a>
 	</div>
 	<!-- ============================ -->
