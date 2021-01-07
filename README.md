@@ -9,12 +9,17 @@
 		<div>
 			<!-- ========== -->
 			<!-- Description-->
-			<p> I'm just a humble practioner of Rustlang</p>
-				<img src="./coffee.svg" />
+			</div float="left">
+				<p> I'm just a humble practioner of Rustlang</p>
+			</div>
+			<!-- Image Splitter -->
+			<img float="center" src="./coffee.svg" />
 			<!-- ================== -->
 			<!-- Attack Helicopter protocol L-O-420691337-l -->
-			<h3> 😄 Pronouns </h3>
-				<p>He/Him</p>
+			<div float="right">
+				<h3> 😄 Pronouns </h3>
+					<p>He/Him</p>
+			</div>
 		</div>
 		<!-- Middle Div -->
 		<div>
