@@ -18,7 +18,6 @@
 			<ul> Music (80s, Synth, Vaporwave, Indie, Pop, Rock, literally anything)</ul>
 			<ul> Subpar Life Advice </ul>
 			<ul> Rust, and Lesser Programming languages </ul>
-			<ul> </ul>
 		</li>
 	<!-- ================== -->
     <!-- Attack Helicopter protocol L-O-420691337-l -->
@@ -37,14 +36,13 @@
     <h3>Likes/Dislikes</h3>
 		<li> 
 			<p> Likes </p>
-			<ul> Monster Hunter (ps2 days) 🐉</ul>
-			<ul> Rust 🦀</ul>
-			<ul> Sleep 💤</ul>
-			<ul> LoFi 🧘</ul>
+				<ul> Monster Hunter (ps2 days) 🐉</ul>
+				<ul> Rust 🦀</ul>
+				<ul> Sleep 💤</ul>
+				<ul> LoFi 🧘</ul>
 			<p> Dislikes </p>
-			<ul> Cayenne Pepper </ul>
-			<ul> Not finishing a project </ul>
-			<ul> </ul>
+				<ul> Cayenne Pepper </ul>
+				<ul> Not finishing a project </ul>
 		</li>
   </div>
 
