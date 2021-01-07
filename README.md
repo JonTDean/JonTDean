@@ -34,6 +34,7 @@
 							<img align="left" src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
 						</div>
 						<br>
+						<br>
 						<!-- Social Media -->
 						<div>
 							<!-- Twitter Followers -->
