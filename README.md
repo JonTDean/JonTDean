@@ -37,7 +37,7 @@
 		<br>
 	<!-- ================== -->
     <!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
-	<h3>👌Likes/Dislikes🙅</h3>
+	<h3 alight="left">👌Likes/Dislikes🙅</h3>
 		<ul> 
 			<h4> Likes </h4>
 				<li> Monster Hunter (ps2 days) 🐉</li>
