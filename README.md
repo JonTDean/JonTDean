@@ -28,7 +28,7 @@
 		<br>
 	<!-- ================== -->
     <!-- The Actual About me -->
-    <h3> ⚡ Fun fact </h3>
+	<h3> ⚡ Fun fact </h3>
 		<ol>
 			<li> I'm really good at 80s trivia. </li>
 			<li> I love to cook. Region has no meaning when it comes to the pallette. </li>
