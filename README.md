@@ -2,7 +2,7 @@
 <img src="./Banner.gif"/>
 <!-- ============================ -->
 <!-- About Section -->
-<h2>☕🃏 About Me 🦀☕ <h3> 😄 Pronouns </h3> <p>He/Him</p></h2>
+<h2>☕🃏 About Me 🦀☕</h2>
 	<!--Container Div -->
 	<div>
 		<!-- Top Div -->
