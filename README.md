@@ -14,6 +14,12 @@
 	<!-- ================== -->
     <!-- What to say to message me.-->
 	<h3> 💬 Ask me about </h3>
+		<li>
+			<ul> Music (80s, Synth, Vaporwave, Indie, Pop, Rock, literally anything)</ul>
+			<ul> Subpar Life Advice </ul>
+			<ul> Rust, and Lesser Programming languages </ul>
+			<ul> </ul>
+		</li>
 	<!-- ================== -->
     <!-- Attack Helicopter protocol L-O-420691337-l -->
     <h3> 😄 Pronouns </h3>
@@ -21,9 +27,25 @@
 	<!-- ================== -->
     <!-- The Actual About me -->
     <h3> ⚡ Fun fact </h3>
+		<li>
+			<ol> I'm really good at 80s trivia. </ol>
+			<ol> I love to cook. Region has no meaning when it comes to the pallette. </ol>
+			<ol> I'm good at directions. </ol>
+		<li>
 	<!-- ================== -->
     <!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
     <h3>Likes/Dislikes</h3>
+		<li> 
+			<p> Likes </p>
+			<ul> Monster Hunter (ps2 days) 🐉</ul>
+			<ul> Rust 🦀</ul>
+			<ul> Sleep 💤</ul>
+			<ul> LoFi 🧘</ul>
+			<p> Dislikes </p>
+			<ul> Cayenne Pepper </ul>
+			<ul> Not finishing a project </ul>
+			<ul> </ul>
+		</li>
   </div>
 
 <!-- ============================ -->
@@ -39,7 +61,7 @@
 
 <!-- ============================ -->
 <!-- Dev Stats -->
-<h2> 🖥️ Lifetime Statistics </h2>
+<h2> 🖥️ Lifetime Development Statistics </h2>
 	<!-- ============================ -->
 	<h3>Github Stats</h3>
 	<div display="flex" align="center">
@@ -79,12 +101,17 @@
 <!-- ============================ -->
 <!-- ============================ -->
 
+<!-- META DATA
+COLOR SCHEME:
+	maroongold: {
+		title_color: "F7EF8A",
+		icon_color: "F7EF8A",
+		text_color: "E0AA3E",
+		bg_color: "260000",
+	},
+-->
+
 <!--
-
-- 🌱 I’m currently learning ...
-
-
-
-- 🤔 I’m looking for help with ...
-
+	- 🌱 I’m currently learning ...
+	- 🤔 I’m looking for help with ...
 -->
