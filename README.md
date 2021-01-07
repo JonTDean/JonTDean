@@ -30,6 +30,19 @@
 			<!-- ================== -->
 			<!-- Contact Information-->
 			<h3> 📫 Where to find me </h3>
+					<div align="center">
+						<!-- Main Website -->
+						<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_color=cyan&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com" />
+						<br>
+						<!-- Discord -->
+						<img src="https://img.shields.io/discord/674436644593598464?color=%23500000&label=Discord&style=for-the-badge" />
+						<br>
+						<!-- Twitter Followers -->
+						<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=for-the-badge" />
+						<br>
+						<!-- Github Followers -->
+						<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=for-the-badge&color=green" />
+					</div>
 				<br>
 			<!-- ================== -->
 			<!-- What to say to message me.-->
