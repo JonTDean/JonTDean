@@ -37,13 +37,13 @@
 						<!-- Social Media -->
 						<div align="center">
 							<!-- Twitter Followers -->
-							<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
+							<img align="center" src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
 							<br>
 							<!-- Github Followers -->
-							<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
+							<img align="center" src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
 							<br>
 							<!-- LinkedIn -->
-							<img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
+							<img align="center" src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
 						</div>
 					</div>
 			<br>
