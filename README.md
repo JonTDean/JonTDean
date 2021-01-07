@@ -42,14 +42,14 @@
 								<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&logo=twitter&labelColor=260000&color=e0aa3e" />
 							</a>
 							<br>
-							<!-- Github Followers -->
-							<a href="https://github.com/JonTDean">
-								<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&logo=github&labelColor=260000&color=e0aa3e" />
-							</a>
-							<br>
 							<!-- LinkedIn -->
 							<a href="https://www.linkedin.com/in/jonathan-dean-ab67aa150/">
 								<img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
+							</a>
+							<br>
+							<!-- Github Followers -->
+							<a href="https://github.com/JonTDean">
+								<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&logo=github&labelColor=260000&color=e0aa3e" />
 							</a>
 							<br>
 							<!-- E-Mail -->
@@ -199,6 +199,18 @@
 								<li> MySQL</li>
 								<li> MongoDB</li>
 								<li> Postgresql</li>
+							</ul>
+					</li>
+					<li> 
+						<h4> Miscellaneous Tech </h4>
+							<ul>
+								<li> JSON <img src="https://img.shields.io/badge/JSON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=json"> </li>
+								<li> RON <img src="https://img.shields.io/badge/RON-FileFormat-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=ron"></li>
+								<li> NodeJS <img src="https://img.shields.io/badge/nodeJS-Framework-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=node.js"></li>
+								<li> CMD <img src="https://img.shields.io/badge/CMD-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=powershell"></li>
+								<li> PowerShell <img src="https://img.shields.io/badge/Powershell-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=powershell"></li>
+								<li> ZSH <img src="https://img.shields.io/badge/ZSH-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=gnu-bash"></li>
+								<li> Bash <img src="https://img.shields.io/badge/ZSH-Shell-red?style=flat-square&labelColor=260000&color=e0aa3e&logo=gnu-bash"></li>
 							</ul>
 					</li>
 				</ol>
