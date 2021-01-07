@@ -2,7 +2,7 @@
 <img src="./animated_banner_short.gif"/>
 <!-- ============================ -->
 <!-- About Section -->
-<h2>👑🃏 About Me 🦀👑</h2>
+<h2>☕🃏 About Me 🦀☕</h2>
 	<!--Container Div -->
 	<div>
 		<!-- Top Div -->
@@ -57,6 +57,7 @@
 						<li> Monster Hunter (ps2 days) 🐉</li>
 						<li> Rust 🦀</li>
 						<li> Sleep 💤</li>
+						<li> Cafe Bustelo ☕ </li>
 						<li> LoFi 🧘</li>
 					<h4> Dislikes </h4>
 						<li> Cayenne Pepper </li>
