@@ -9,10 +9,10 @@
 		<div align="center">
 			<!-- ========== -->
 			<!-- Description-->
-			<p align="center"> I'm just a humble practioner of Rustlang</p>
+			<p align="left"> I'm just a humble practioner of Rustlang</p>
 			<!-- ================== -->
 			<!-- Attack Helicopter protocol L-O-420691337-l -->
-			<h3 align="center"> 😄 Pronouns </h3>
+			<h3 align="right"> 😄 Pronouns </h3>
 				<p>He/Him</p>
 		</div>
 		<!-- Middle Div -->
