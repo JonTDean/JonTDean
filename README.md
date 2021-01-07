@@ -43,7 +43,7 @@
 	<h3>Github Stats</h3>
 	<div display="flex">
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark">
-		  <img align="left" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=maroongold" />
+		  <img align="center" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=maroongold" />
 		</a>
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark">
 		  <img align="center" width="320" min-height="100%" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
@@ -53,12 +53,12 @@
 		</a>
 	</div>
 	<!-- WakaTime Stats -->
-	<div>
+	<div display="flex">
 		<div align="center">
-			<a href="https://wakatime.com"><img width="600" height="400" src="https://wakatime.com/share/@JonTDean/d1a475eb-f52e-4b71-82c0-466e66ac0098.png" /></a>
+			<a href="https://wakatime.com"><img width="400" height="200" src="https://wakatime.com/share/@JonTDean/d1a475eb-f52e-4b71-82c0-466e66ac0098.png" /></a>
 		</div>
 		<div align="center">
-			<a href="https://wakatime.com"><img width="600" height="400" src="https://wakatime.com/share/@JonTDean/14f1dc61-556d-4df0-9488-e6fa519fde70.png" /></a>
+			<a href="https://wakatime.com"><img width="400" height="200" src="https://wakatime.com/share/@JonTDean/14f1dc61-556d-4df0-9488-e6fa519fde70.png" /></a>
 		</div>
 	</div>
 <!-- ============================ -->
