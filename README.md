@@ -66,8 +66,8 @@
 			<details>
 				<ul>
 					<li> Music (80s, Synth, Vaporwave, Indie, Pop, Rock, literally anything)</li>
-					<li> Subpar Life Advice </li>
-					<li> Rust, and Lesser Programming languages </li>
+					<li> Subpar life advice </li>
+					<li> Rust, and lesser Programming languages </li>
 				</ul>
 			</details>
 			<br>
