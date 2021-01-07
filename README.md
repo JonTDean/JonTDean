@@ -12,9 +12,12 @@
 			</div>
 				<p> I'm just a humble practioner of Rustlang</p>
 			</div>
-			<!-- ================== -->
-			<!-- Attack Helicopter protocol L-O-420691337-l -->
-			<div>		
+			<div>	
+				<!-- ============================ -->
+				<!-- What I’m currently working on -->
+				<h3>🔭 Current Projects </h3>
+					<p> Currently, I'm doing Voyage 27 courtesy of https://chingu.io/ </p>
+					<p> I'm also freelancing, contact me via e-mail or twitter in order to set up an appointment </p>
 			</div>
 			<!-- Image Splitter -->
 			<div align="center">
@@ -29,6 +32,7 @@
 			<!-- Contact Information-->
 			<h3> 📫 Where to find me </h3>
 					<div>
+						<!-- Portals -->
 						<div align="center">
 							<!-- Main Website -->
 							<img align="right" src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
@@ -36,25 +40,30 @@
 							<img align="left" src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
 						</div>
 						<br>
-						<!-- Twitter Followers -->
-						<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
-						<br>
-						<!-- Github Followers -->
-						<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
-						<br>
-						<!-- LinkedIn -->
-						<img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
+						<!-- Social Media -->
+						<div>
+							<!-- Twitter Followers -->
+							<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
+							<br>
+							<!-- Github Followers -->
+							<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
+							<br>
+							<!-- LinkedIn -->
+							<img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
+						</div>
 					</div>
-				<br>
+			<br>
 			<!-- ================== -->
 			<!-- What to say to message me.-->
 			<h3> 💬 Ask me about </h3>
+			<details>
 				<ul>
 					<li> Music (80s, Synth, Vaporwave, Indie, Pop, Rock, literally anything)</li>
 					<li> Subpar Life Advice </li>
 					<li> Rust, and Lesser Programming languages </li>
 				</ul>
-				<br>
+			</details>
+			<br>
 			<!-- Image Splitter -->
 			<div align="center">
 				<img align="left" src="./coffee.svg" />
@@ -67,6 +76,7 @@
 			<!-- ================== -->
 			<!-- Piros the 3rd likes/dislikes from .hack//gu vol 3. -->
 			<h3>👌Likes/Dislikes🙅</h3>
+			<details>
 				<ul> 
 					<h4> Likes </h4>
 						<li> Monster Hunter (ps2 days) 🐉</li>
@@ -78,14 +88,17 @@
 						<li> Cayenne Pepper </li>
 						<li> Not finishing a project </li>
 				</ul>
+			</details>
 			<!-- ================== -->
 			<!-- The Actual About me -->
 			<h3> ⚡ Fun facts </h3>
+			<details>
 				<ol>
 					<li> I'm really good at 80s trivia. </li>
 					<li> I love to cook. Region has no meaning when it comes to the pallette. </li>
 					<li> I'm good at directions. </li>
 				<ol>
+			</details>
 			<br>
 			<!-- Image Splitter -->
 			<div align="center">
@@ -105,68 +118,72 @@
 	</div>
 	<div>
 		<h3> Language Set</h3>
-			<ol>
-				<li>
-					<h4> Programming Languages </h4>
-						<ul>
-							<li>
-								<h4> Main Languages <h4>
-									<ul>
-										<li> Rust </li>
-										<li> JavaScript 2015+ </li>
-										<li> C# </li>
-									</ul>
-							</li>
-							<li>
-								<h4> Sub Languages </h4>
-									<ul>
-										<li> TypeScript </li>
-										<li> Python 2.x/3.x </li>
-										<li> Ruby </li>
-									</ul>
-							</li>
-						</ul>
-				</li>
-				<li>
-					<h4> Querying Languages </h4>
-						<ul>
-							<li> R </li>
-							<li> SQL </li>
-						</ul>
-				</li>
-			</ol>
-		<h3> Technology Set </h3>
-			<ol>
-				<li>
-					<h4> Web Development </h4>
-						<ul>
-							<li> Ruby On Rails </li>
-							<li> React </li>
-							<li> Express </li>
-							<li> Diesel </li>
-							<li> Actix </li>
-							<li> Yew </li>
-						</ul>
-				</li>
-				<li>
-					<h4> Game Development </h4>
-						<ul>
-							<li> Phaser </li>
-							<li> Unity </li>
-							<li> Amethyst </li>
-							<li> XNA </li>
-							<li> M.U.G.E.N. </li>
-						</ul>
-				</li>
-				<li>
-					<h4> Database Development </h4>
-						<ul>
-							<li> MySQL</li>
-							<li> MongoDB</li>
-							<li> Postgresql</li>
-						</ul>
-				</li>
-			</ul>
+			<details>
+					<ol>
+						<li>
+							<h4> Programming Languages </h4>
+								<ul>
+									<li>
+										<h4> Main Languages <h4>
+											<ul>
+												<li> Rust </li>
+												<li> JavaScript 2015+ </li>
+												<li> C# </li>
+											</ul>
+									</li>
+									<li>
+										<h4> Sub Languages </h4>
+											<ul>
+												<li> TypeScript </li>
+												<li> Python 2.x/3.x </li>
+												<li> Ruby </li>
+											</ul>
+									</li>
+								</ul>
+						</li>
+						<li>
+							<h4> Querying Languages </h4>
+								<ul>
+									<li> R </li>
+									<li> SQL </li>
+								</ul>
+						</li>
+					</ol>			
+			</details>
+			<h3> Technology Set </h3>
+			<details>
+				<ol>
+					<li>
+						<h4> Web Development </h4>
+							<ul>
+								<li> Ruby On Rails </li>
+								<li> React </li>
+								<li> Express </li>
+								<li> Diesel </li>
+								<li> Actix </li>
+								<li> Yew </li>
+							</ul>
+					</li>
+					<li>
+						<h4> Game Development </h4>
+							<ul>
+								<li> Phaser </li>
+								<li> Unity </li>
+								<li> Amethyst </li>
+								<li> XNA </li>
+								<li> M.U.G.E.N. </li>
+							</ul>
+					</li>
+					<li>
+						<h4> Database Development </h4>
+							<ul>
+								<li> MySQL</li>
+								<li> MongoDB</li>
+								<li> Postgresql</li>
+							</ul>
+					</li>
+				</ol>
+			</details> 
 		<!-- My PC Specs -->
 		<h3> Hardware Specifications </h3>
 			<table class="tg">
@@ -196,13 +213,7 @@
 				</tbody>
 			</table>
 	</div>
-	
-<!-- ============================ -->
-<!-- What I’m currently working on -->
-<h2>🔭 Current Projects </h2>
-	<p> Currently, I'm doing Voyage 27 courtesy of https://chingu.io/ </p>
-	<p> I'm also freelancing 
-<hr>
+	<hr>
 <!-- ============================ -->
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Development Statistics </h2>
