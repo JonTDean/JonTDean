@@ -36,7 +36,7 @@
 						<br>
 						<br>
 						<!-- Social Media -->
-						<div align="center>
+						<div align="center">
 							<!-- Twitter Followers -->
 							<a href="https://twitter.com/JonTDean">
 								<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
