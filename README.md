@@ -30,7 +30,7 @@
 			<!-- ================== -->
 			<!-- Contact Information-->
 			<h3> 📫 Where to find me </h3>
-					<div align="center">
+					<div>
 						<!-- Main Website -->
 						<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_color=cyan&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com" />
 						<br>
