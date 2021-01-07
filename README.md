@@ -9,16 +9,20 @@
 		<div>
 			<!-- ========== -->
 			<!-- Description-->
-			</div float="left">
+			</div>
 				<p> I'm just a humble practioner of Rustlang</p>
 			</div>
-			<!-- Image Splitter -->
-			<img float="center" src="./coffee.svg" />
 			<!-- ================== -->
 			<!-- Attack Helicopter protocol L-O-420691337-l -->
-			<div float="right">
+			<div>
 				<h3> 😄 Pronouns </h3>
 					<p>He/Him</p>
+			</div>
+			<!-- Image Splitter -->
+			<div align="center">
+				<img align="left" src="./coffee.svg" />
+				<img align="center" src="./coffee.svg" />
+				<img align="right" src="./coffee.svg" />
 			</div>
 		</div>
 		<!-- Middle Div -->
@@ -36,6 +40,12 @@
 					<li> Rust, and Lesser Programming languages </li>
 				</ul>
 				<br>
+			<!-- Image Splitter -->
+			<div align="center">
+				<img align="left" src="./coffee.svg" />
+				<img align="center" src="./coffee.svg" />
+				<img align="right" src="./coffee.svg" />
+			</div>
 		</div>
 		<!-- Bottom Div -->
 		<div>
@@ -60,6 +70,12 @@
 					<li> I love to cook. Region has no meaning when it comes to the pallette. </li>
 					<li> I'm good at directions. </li>
 				<ol>
+			<!-- Image Splitter -->
+			<div align="center">
+				<img align="left" src="./coffee.svg" />
+				<img align="center" src="./coffee.svg" />
+				<img align="right" src="./coffee.svg" />
+			</div>
 		</div>
 	</div>
 
