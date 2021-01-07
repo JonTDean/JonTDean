@@ -19,6 +19,12 @@
 					<p> Currently, I'm doing Voyage 27 courtesy of https://chingu.io/ </p>
 					<p> I'm also freelancing, contact me via e-mail or twitter in order to set up an appointment </p>
 			</div>
+			<!-- Image Splitter -->
+			<div align="center">
+				<img align="left" src="./coffee.svg" />
+				<img align="center" src="./coffee.svg" />
+				<img align="right" src="./coffee.svg" />
+			</div>
 		</div>
 		<!-- Middle Div -->
 		<div>
@@ -29,25 +35,35 @@
 						<!-- Portals -->
 						<div align="center">
 							<!-- Main Website -->
-							<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
+							<img align="right" src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
 							<!-- Discord -->
-							<img src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
+							<img align="left" src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
 						</div>
 						<br>
 						<!-- Social Media -->
 						<div>
 							<!-- Twitter Followers -->
-							<img align="center" src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
+							<a href="https://twitter.com/JonTDean">
+								<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
+							</a>
 							<br>
 							<!-- Github Followers -->
-							<img align="center" src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
+							<a href="https://github.com/JonTDean">
+								<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
+							</a>
 							<br>
 							<!-- LinkedIn -->
-							<img align="center" src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
+							<a href="https://www.linkedin.com/in/jonathan-dean-ab67aa150/">
+								<img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
+							</a>
+							<br>
+							<!-- E-Mail -->
+							<a href="mailto:jonathantomdean@Gmail.com">
+								<img src="https://img.shields.io/badge/E--Mail-Send%20Me%20a%20Message?style=flat-square&logo=gmail&labelColor=260000&color=e0aa3e"/>
+							</a>
 						</div>
 					</div>
 			<br>
-			<hr>
 			<!-- ================== -->
 			<!-- What to say to message me.-->
 			<h3> 💬 Ask me about </h3>
@@ -84,12 +100,6 @@
 						<li> Not finishing a project </li>
 				</ul>
 			</details>
-			<!-- Image Splitter -->
-			<div align="center">
-				<img align="left" src="./coffee.svg" />
-				<img align="center" src="./coffee.svg" />
-				<img align="right" src="./coffee.svg" />
-			</div>
 			<!-- ================== -->
 			<!-- The Actual About me -->
 			<h3> ⚡ Fun facts </h3>
@@ -151,12 +161,6 @@
 						</li>
 					</ol>			
 			</details>
-				<!-- Image Splitter -->
-				<div align="center">
-					<img align="left" src="./hard-drive.svg" />
-					<img align="center" src="./hard-drive.svg" />
-					<img align="right" src="./hard-drive.svg" />
-				</div>
 			<h3> Technology Set </h3>
 			<details>
 				<ol>
@@ -191,11 +195,6 @@
 					</li>
 				</ol>
 			</details> 
-				<div align="center">
-					<img align="left" src="./hard-drive.svg" />
-					<img align="center" src="./hard-drive.svg" />
-					<img align="right" src="./hard-drive.svg" />
-				</div>
 		<!-- My PC Specs -->
 		<h3> Hardware Specifications </h3>
 			<table class="tg">
@@ -233,10 +232,10 @@
 	<h3>Github Stats</h3>
 	<div display="flex" align="center">
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark">
-		  <img align="center" width="400" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold" />
+		  <img align="center" width="550" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold" />
 		</a>
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark">
-		  <img align="center" width="350" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
+		  <img align="center" width="450" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
 		</a>
 	</div>
 	<!-- ============================ -->
@@ -247,23 +246,23 @@
 			  	<img align="center" width="700" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=maroongold" />
 			</a>
 		</div>
+		<details>
+			<summary>
+				Advanced - Language Use :: Past 7 Days
+			</summary>
+			<div align="center">
+				<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/06af77bd-e25a-4e74-97c8-f8e6e8690e22.png" /></a>
+			</div>
+		</details>
+		<details>
+			<summary>
+				Advanced - Total Programming Time :: Past 7 Days
+			</summary>
+			<div align="center">
+				<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/14f1dc61-556d-4df0-9488-e6fa519fde70.png" /></a>
+			</div>
+		</details>
 	</div>
-	<details>
-		<summary>
-			Advanced - Language Use :: Past 7 Days
-		</summary>
-		<div align="center">
-			<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/06af77bd-e25a-4e74-97c8-f8e6e8690e22.png" /></a>
-		</div>
-	</details>
-	<details>
-		<summary>
-			Advanced - Total Programming Time :: Past 7 Days
-		</summary>
-		<div align="center">
-			<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JonTDean/14f1dc61-556d-4df0-9488-e6fa519fde70.png" /></a>
-		</div>
-	</details>
 <!-- ============================ -->
 <!-- ============================ -->
 <!-- ============================ -->
