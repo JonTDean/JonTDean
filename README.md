@@ -236,7 +236,7 @@
 		  <img align="center" width="400" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold" />
 		</a>
 		<a href="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark">
-		  <img align="center" width="400" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
+		  <img align="center" width="350" height="200" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=maroongold" />
 		</a>
 	</div>
 	<!-- ============================ -->
