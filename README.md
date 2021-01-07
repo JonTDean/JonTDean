@@ -42,13 +42,13 @@
 <h2> 🖥️ Lifetime Statistics </h2>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" width="350" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+      <img align="left" width="350" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api?username=JonTDean&count_private=true&show_icons=true&theme=vision-friendly-dark" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" width="350" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
+      <img align="center" width="350" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=JonTDean&layout=compact&theme=vision-friendly-dark" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width="350" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
+      <img align="right" width="350" margin="0" padding="0" src="https://github-readme-stats-nine-xi.vercel.app/api/wakatime?username=JonTDean&theme=vision-friendly-dark" />
     </a>
 </div>
 
