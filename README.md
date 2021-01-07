@@ -29,17 +29,21 @@
 			<!-- Contact Information-->
 			<h3> 📫 Where to find me </h3>
 					<div>
-						<!-- Main Website -->
-						<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_color=cyan&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com" />
-						<br>
-						<!-- Discord -->
-						<img src="https://img.shields.io/discord/674436644593598464?color=%23500000&label=Discord&style=for-the-badge" />
+						<div align="center">
+							<!-- Main Website -->
+							<img align="right" src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&labelColor=260000&color=e0aa3e" />
+							<!-- Discord -->
+							<img align="left" src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&labelColor=260000&color=e0aa3e" />
+						</div>
 						<br>
 						<!-- Twitter Followers -->
-						<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=for-the-badge" />
+						<img src="https://img.shields.io/twitter/follow/JonTDean?label=Follow%20My%20Twitter&style=flat-square&labelColor=260000&color=e0aa3e" />
 						<br>
 						<!-- Github Followers -->
-						<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=for-the-badge&color=green" />
+						<img src="https://img.shields.io/github/followers/JonTDean?label=Github%20Followers&style=flat-square&labelColor=260000&color=e0aa3e" />
+						<br>
+						<!-- LinkedIn -->
+						<img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat-square&logo=linkedin&labelColor=260000&color=e0aa3e" />
 					</div>
 				<br>
 			<!-- ================== -->
@@ -96,14 +100,108 @@
 <!-- ============================ -->
 <!-- Collaborative Efforts -->
 <h2> 👯 Let's Collaborate </h2>
-  <div>
-    <p> Please don't hesitate to reach out if you have an idea and want to collaborate. </p>  
-  </div>
-
+	<div>
+		<p> Please don't hesitate to reach out if you have an idea and want to collaborate. </p>  
+	</div>
+	<div>
+		<h3> Language Set</h3>
+			<ol>
+				<li>
+					<h4> Programming Languages </h4>
+						<ul>
+							<li>
+								<h4> Main Languages <h4>
+									<ul>
+										<li> Rust </li>
+										<li> JavaScript 2015+ </li>
+										<li> C# </li>
+									</ul>
+							</li>
+							<li>
+								<h4> Sub Languages </h4>
+									<ul>
+										<li> TypeScript </li>
+										<li> Python 2.x/3.x </li>
+										<li> Ruby </li>
+									</ul>
+							</li>
+						</ul>
+				</li>
+				<li>
+					<h4> Querying Languages </h4>
+						<ul>
+							<li> R </li>
+							<li> SQL </li>
+						</ul>
+				</li>
+			</ol>
+		<h3> Technology Set </h3>
+			<ol>
+				<li>
+					<h4> Web Development </h4>
+						<ul>
+							<li> Ruby On Rails </li>
+							<li> React </li>
+							<li> Express </li>
+							<li> Diesel </li>
+							<li> Actix </li>
+							<li> Yew </li>
+						</ul>
+				</li>
+				<li>
+					<h4> Game Development </h4>
+						<ul>
+							<li> Phaser </li>
+							<li> Unity </li>
+							<li> Amethyst </li>
+							<li> XNA </li>
+							<li> M.U.G.E.N. </li>
+						</ul>
+				</li>
+				<li>
+					<h4> Database Development </h4>
+						<ul>
+							<li> MySQL</li>
+							<li> MongoDB</li>
+							<li> Postgresql</li>
+						</ul>
+				</li>
+			</ul>
+		<!-- My PC Specs -->
+		<h3> Hardware Specifications </h3>
+			<table class="tg">
+				<thead>
+				  <tr>
+					<th class="tg-0lax"></th>
+					<th class="tg-0lax">CPU</th>
+					<th class="tg-0lax">MOBO<br></th>
+					<th class="tg-0lax">GPU</th>
+					<th class="tg-0lax">RAM<br></th>
+					<th class="tg-0lax">ST-0</th>
+					<th class="tg-0lax">ST-1</th>
+					<th class="tg-0lax">ST-2</th>
+				  </tr>
+				</thead>
+				<tbody>
+				  <tr>
+					<td class="tg-0lax">Name</td>
+					<td class="tg-0lax">i5-7600k</td>
+					<td class="tg-0lax">Asus PRIME Z270-A</td>
+					<td class="tg-0lax">5700XT</td>
+					<td class="tg-0lax">4x8gb GeIL EVO Potenza 3200mhz </td>
+					<td class="tg-0lax">Seagate 5400rpm 1tb<br></td>
+					<td class="tg-0lax">Sabrent PCie 500gb</td>
+					<td class="tg-0lax">Seagate 5400rpm 1tb</td>
+				  </tr>
+				</tbody>
+			</table>
+	</div>
+	
 <!-- ============================ -->
 <!-- What I’m currently working on -->
 <h2>🔭 Current Projects </h2>
-
+	<p> Currently, I'm doing Voyage 27 courtesy of https://chingu.io/ </p>
+	<p> I'm also freelancing 
 <hr>
 <!-- ============================ -->
 <!-- Dev Stats -->
