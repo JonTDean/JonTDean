@@ -29,7 +29,9 @@
 						<!-- Portals -->
 						<div align="center">
 							<!-- Main Website -->
-							<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&logo=jameson&labelColor=260000&color=e0aa3e" />
+							<a href="https://www.jonathantomdean.com/">
+								<img src="https://img.shields.io/website?down_message=Offline&label=Home%20Site&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.jonathantomdean.com&logo=jameson&labelColor=260000&color=e0aa3e" />
+							</a>
 							<!-- Discord -->
 							<img src="https://img.shields.io/discord/674436644593598464?label=Discord&style=for-the-badge&logo=discord&labelColor=260000&color=e0aa3e" />
 						</div>
