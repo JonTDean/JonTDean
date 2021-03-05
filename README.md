@@ -1,4 +1,9 @@
-<h1> The Fool of Rust's Profile 🙌🦀🙌 </h1>
+<h1> A Practitioner of Rust's Profile 🙌🦀🙌 </h1>
+
+<details>
+	<summary>
+	Bio
+	</summary>
 <img src="./Banner.gif"/>
 <!-- ============================ -->
 <!-- About Section -->
@@ -17,6 +22,7 @@
 				<!-- What I’m currently working on -->
 				<h3>🔭 Current Projects </h3>
 					<p> Currently, I'm doing Voyage 27 courtesy of https://chingu.io/ </p>
+					<p> Finishing up Woz-U Apprenticeship for Infosys </p>
 					<p> I'm also freelancing, contact me via e-mail or twitter in order to set up an appointment </p>
 			</div>
 		</div>
@@ -264,6 +270,8 @@
 			</table>
 	</div>
 	<hr>
+</details>
+
 <!-- ============================ -->
 <!-- Dev Stats -->
 <h2> 🖥️ Lifetime Development Statistics </h2>
