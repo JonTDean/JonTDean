@@ -1,4 +1,4 @@
-<h1> A Practitioner of Rust's Profile 🙌🦀🙌 </h1>
+<h1> A Practitioner of Rust's Profile 🦀 </h1>
 
 <details>
 	<summary>
