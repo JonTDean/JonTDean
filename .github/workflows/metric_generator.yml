@@ -91,7 +91,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: html, css, less, qmake, lex, cmake, gnuplot, cala, js
+          plugin_languages_ignored: html, css, less, sass, scss, qmake, lex, cmake, gnuplot, cala
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -101,7 +101,7 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
+#           plugin_languages_indepth: yes
           plugin_languages_threshold: 0%
           
       - name: 🦑 Fingerprint
