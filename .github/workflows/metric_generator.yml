@@ -31,7 +31,7 @@ jobs:
           
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: JonTDean/metrics@master
         with:
           filename: sponsors.svg
           token: ${{ secrets.GH_PAT }}
