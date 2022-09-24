@@ -1,1 +1,2 @@
-<img src="/medias.svg" alt="Metrics">
+<!-- Youtube -->
+<img src="/youtube.svg" alt="Metrics">
