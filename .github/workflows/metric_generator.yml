@@ -29,15 +29,15 @@ jobs:
           plugin_notable: yes
 #           plugin_discussions: yes
           
-      - name: 🦑 Sponsors
-        if: ${{ success() || failure() }}
-        uses: JonTDean/metrics@master
-        with:
-          filename: sponsors.svg
-          token: ${{ secrets.GH_PAT }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
+#       - name: 🦑 Sponsors
+#         if: ${{ success() || failure() }}
+#         uses: JonTDean/metrics@master
+#         with:
+#           filename: sponsors.svg
+#           token: ${{ secrets.GH_PAT }}
+#           base: ""
+#           plugin_sponsors: yes
+#           plugin_sponsors_past: yes
           
       - name: 🦑 Anime
         if: ${{ success() || failure() }}
