@@ -110,6 +110,7 @@ jobs:
         with:
           filename: fingerprint.svg 
           token: ${{ secrets.GH_PAT }}
+          base: ""
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
