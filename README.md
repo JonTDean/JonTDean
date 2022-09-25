@@ -5,7 +5,7 @@
 <img src="/fingerprint.svg" alt="Fingerprint">
 
 <!-- Sponsors -->
-<img src="/sponsors.svg" alt="Sponsors">
+<!-- <img src="/sponsors.svg" alt="Sponsors"> -->
 
 <!-- Github -->
 <img src="/github.svg" alt="Github">
