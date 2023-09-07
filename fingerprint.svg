@@ -241,9 +241,9 @@ https://psidium.github.io/lerna/monorepo/yarn/nodejs/pnp/zero-install/2021/08/23
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.4624033731553057 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.46224095539164034 329"/>
                                     <text x="60" y="50" dominant-baseline="central">4</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2846</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2847</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -259,9 +259,9 @@ https://psidium.github.io/lerna/monorepo/yarn/nodejs/pnp/zero-install/2021/08/23
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.4366290643662906 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.43633952254641906 329"/>
                                     <text x="60" y="50" dominant-baseline="central">2</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1507</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1508</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
