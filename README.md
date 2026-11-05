@@ -3,7 +3,7 @@
 
 <p align="justify">
 
-I am a machine learning engineer, computational biologist, and systems designer.
+I am a machine learning engineer and systems designer.
 
 </p>
 
