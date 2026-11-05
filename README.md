@@ -19,7 +19,7 @@ I am a machine learning engineer and systems designer.
 
 ---
 
-### Guiding perspectives (selected quotes)
+### Guiding quotes
 
 > “Information is information, not matter or energy.”  
 > — Norbert Wiener  
